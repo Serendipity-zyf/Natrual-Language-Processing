@@ -21,7 +21,7 @@
 * **NLP语料库**
 * **NLP知识结构**
 * ......
-### 1.3 [NLP开发环境配置]()
+### 1.3 [NLP开发环境配置](https://github.com/Serendipity-zyf/Natrual-Language-Processing/blob/main/NLP%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/Readme.md)
 * 搭建Python开发环境（Anaconda的下载与使用）
 * 使用conda管理和创建虚拟环境
 * 使用jupyter notebook
