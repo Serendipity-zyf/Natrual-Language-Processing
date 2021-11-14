@@ -21,3 +21,7 @@
 * **NLP语料库**
 * **NLP知识结构**
 * ......
+### 1.3 NLP开发环境配置
+* 搭建Python开发环境（Anaconda的下载与使用）
+* 使用conda管理和创建虚拟环境
+* 使用jupyter notebook
