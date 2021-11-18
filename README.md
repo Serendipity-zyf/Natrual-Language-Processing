@@ -28,4 +28,4 @@
 * ......
 ## 二、NLP前置技术
 * [Numpy的使用](https://github.com/Serendipity-zyf/Natrual-Language-Processing/tree/main/Numpy%E3%80%81Pandas%E5%9F%BA%E7%A1%80/Numpy%E5%9F%BA%E7%A1%80)
-* Pandas的使用
+* [Pandas的使用](https://github.com/Serendipity-zyf/Natrual-Language-Processing/tree/main/Numpy%E3%80%81Pandas%E5%9F%BA%E7%A1%80/Pandas%E5%9F%BA%E7%A1%80)
