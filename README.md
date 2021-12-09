@@ -30,3 +30,4 @@
 * [Numpy的使用](https://github.com/Serendipity-zyf/Natrual-Language-Processing/tree/main/Numpy%E3%80%81Pandas%E5%9F%BA%E7%A1%80/Numpy%E5%9F%BA%E7%A1%80)
 * [Pandas的使用](https://github.com/Serendipity-zyf/Natrual-Language-Processing/tree/main/Numpy%E3%80%81Pandas%E5%9F%BA%E7%A1%80/Pandas%E5%9F%BA%E7%A1%80)
 * [正则表达式以及re包的使用](https://github.com/Serendipity-zyf/Natrual-Language-Processing/tree/main/NLP%E5%9F%BA%E7%A1%80/NLP_Chap2)
+* [NLP分词技术](https://github.com/Serendipity-zyf/Natrual-Language-Processing/tree/main/NLP%E5%9F%BA%E7%A1%80/NLP_Chap3)
