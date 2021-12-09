@@ -15,7 +15,7 @@
 （Windows系统）参考2:[https://www.bilibili.com/video/BV1jV411x7JQ?from=search&seid=17877063708177251341&spm_id_from=333.337.0.0](https://www.bilibili.com/video/BV1jV411x7JQ?from=search&seid=17877063708177251341&spm_id_from=333.337.0.0)
 
 ## 1.4 jupyter notebook的概念以及优点
-** jupyter notebook 是已经成为一个几乎支持所有语言，能够把软件代码、计算输出、解释文档、多媒体资源整合在一起的多功能科学运算平台。**
+**jupyter notebook 是已经成为一个几乎支持所有语言，能够把软件代码、计算输出、解释文档、多媒体资源整合在一起的多功能科学运算平台。**
 
 **1、整合所有的资源**
 
