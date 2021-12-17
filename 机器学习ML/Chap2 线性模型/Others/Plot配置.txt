@@ -1,0 +1,6 @@
+matplotlib配置：
+一、能够让保存的图片是svg格式
+%config InlineBackend.figure_format = "svg"
+二、显示中文
+plt.rcParams['font.sans-serif'] = ['SimSun']
+plt.rcParams['axes.unicode_minus'] = False
