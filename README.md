@@ -31,3 +31,6 @@
 * [Pandas的使用](https://github.com/Serendipity-zyf/Natrual-Language-Processing/tree/main/Numpy%E3%80%81Pandas%E5%9F%BA%E7%A1%80/Pandas%E5%9F%BA%E7%A1%80)
 * [正则表达式以及re包的使用](https://github.com/Serendipity-zyf/Natrual-Language-Processing/tree/main/NLP%E5%9F%BA%E7%A1%80/NLP_Chap2)
 * [NLP分词技术](https://github.com/Serendipity-zyf/Natrual-Language-Processing/tree/main/NLP%E5%9F%BA%E7%A1%80/NLP_Chap3)
+
+## 三、[机器学习与深度学习基础}(https://github.com/Serendipity-zyf/Natrual-Language-Processing/tree/main/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0ML)
+* [线性模型](https://github.com/Serendipity-zyf/Natrual-Language-Processing/tree/main/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0ML/Chap2%20%E7%BA%BF%E6%80%A7%E6%A8%A1%E5%9E%8B)
